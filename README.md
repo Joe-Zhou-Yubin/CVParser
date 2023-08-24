@@ -8,6 +8,6 @@ CVParser Backend using Springboot, ChatGPT API, MongoDB (Document Storage) and M
 ---
 
 ## Role Table
-<img src="https://github.com/Joe-Zhou-Yubin/AvensysSocialMedia/raw/main/screenshots/Role_Table.png" alt="Role Table Screenshot" width="600">
+<img src="https://github.com/Joe-Zhou-Yubin/CVParser/blob/main/screenshots/Role_Table.png" alt="Role Table Screenshot" width="600">
 
 ---
