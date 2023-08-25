@@ -1,6 +1,9 @@
 # CVParser
 CVParser Backend using Springboot, ChatGPT API, MongoDB (Document Storage) and MySQL (Record Storage)
 
+<a href="https://www.canva.com/design/DAFsgxgwJ8M/G0XjRu26Sr-Y8-_Y0BDjvA/view?utm_content=DAFsgxgwJ8M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Presentation Deck</a><br>
+<a href="https://www.figma.com/file/jAznLiXhqA1Id0POUyrfvQ/CVParser?type=whiteboard&node-id=0%3A1&t=DxDn2p5JfkdF3sPW-1" target="_blank">Figma Design</a><br>
+
 ## MySQL Setup 
 <div>Auto generated using JPA Repository and Springboot Model</div><br>
 <img src="https://github.com/Joe-Zhou-Yubin/CVParser/blob/main/screenshots/MySQL_Table.png" alt="MySQL Table Screenshot" height="600">
